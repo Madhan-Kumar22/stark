@@ -1,11 +1,8 @@
 #include<stdio.h>
 
 int main()
-D
+{
 
+printf("hello world");
 
-
-ii
-A
-
-{}
+}
